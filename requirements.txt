@@ -1,0 +1,30 @@
+# SAIL BSL SCM AI Innovation Suite — Python Requirements
+# Backend ML engine (primary): h2oai/h2o-3 (Apache 2.0)
+# Backend ML fallback: scikit-learn
+# Frontend (open-source): Streamlit (Apache 2.0)
+# REST API: FastAPI + uvicorn
+
+# ── Core ML ────────────────────────────────────────────────────────────────
+h2o                        # Official H2O-3 AutoML (h2oai/h2o-3, Apache 2.0)
+scikit-learn               # Fallback ML engine (when JVM / H2O unavailable)
+numpy
+pandas
+
+# ── Frontend (Open-Source ML Dashboard) ───────────────────────────────────
+streamlit                  # github.com/streamlit/streamlit (Apache 2.0)
+plotly                     # Interactive charts used by Streamlit
+
+# ── Backend API ────────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# ── Track B: RAG / Document AI (optional — needs GROQ_API_KEY) ────────────
+groq
+chromadb
+sentence-transformers
+pypdf
+
+# ── Testing ────────────────────────────────────────────────────────────────
+pytest
+httpx                      # Required by FastAPI TestClient

@@ -1,0 +1,5 @@
+Vendor: Acme Steelworks
+Warranty: 12 months
+Delivery: 8 weeks
+Price per unit: 1200
+Notes: Includes basic installation support.

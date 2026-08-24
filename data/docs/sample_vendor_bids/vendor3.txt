@@ -1,0 +1,5 @@
+Vendor: Continental Metals
+Warranty: 18 months
+Delivery: 10 weeks
+Price per unit: 1225
+Notes: Offers on-site training for operators.

@@ -1,0 +1,5 @@
+Vendor: Bharat Alloys
+Warranty: 24 months
+Delivery: 12 weeks
+Price per unit: 1150
+Notes: Extended support available at extra cost.

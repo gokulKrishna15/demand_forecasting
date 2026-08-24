@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vendor1.txt_0",
+    "text": "Vendor: Acme Steelworks\nWarranty: 12 months\nDelivery: 8 weeks\nPrice per unit: 1200\nNotes: Includes basic installation support.",
+    "source": "vendor1.txt"
+  },
+  {
+    "id": "vendor2.txt_0",
+    "text": "Vendor: Bharat Alloys\nWarranty: 24 months\nDelivery: 12 weeks\nPrice per unit: 1150\nNotes: Extended support available at extra cost.",
+    "source": "vendor2.txt"
+  },
+  {
+    "id": "vendor3.txt_0",
+    "text": "Vendor: Continental Metals\nWarranty: 18 months\nDelivery: 10 weeks\nPrice per unit: 1225\nNotes: Offers on-site training for operators.",
+    "source": "vendor3.txt"
+  },
+  {
+    "id": "vendor4.txt_0",
+    "text": "Vendor: Duniya Metals\nWarranty: 6 months\nDelivery: 6 weeks\nPrice per unit: 1180\nNotes: Fast delivery, limited warranty.",
+    "source": "vendor4.txt"
+  },
+  {
+    "id": "vendor5.txt_0",
+    "text": "Vendor: Evergreen Supplies\nWarranty: 12 months\nDelivery: 9 weeks\nPrice per unit: 1195\nNotes: Includes replacement parts discount.",
+    "source": "vendor5.txt"
+  }
+]

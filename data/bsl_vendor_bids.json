@@ -1,0 +1,212 @@
+[
+  {
+    "bid_id": "BID-2026-001",
+    "vendor_id": "VEND-IND-0104",
+    "vendor_name": "Bharat Heavy Hydraulics & Systems Ltd (Pune, India)",
+    "vendor_origin": "Domestic (Make In India - Class 1 Local Supplier)",
+    "quoted_price_inr": 44800000,
+    "technical_responses": [
+      {
+        "spec_id": "SPEC-01",
+        "parameter": "Working Hydraulic System Pressure",
+        "offered_value": "220 bar (continuous rated)",
+        "compliance": "Compliant (Exceeds spec by 10 bar)",
+        "remarks": "High-grade Rexroth pump"
+      },
+      {
+        "spec_id": "SPEC-02",
+        "parameter": "Main High-Pressure Pump Capacity",
+        "offered_value": "465 Litres/min",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Axial Piston A4VSO series"
+      },
+      {
+        "spec_id": "SPEC-03",
+        "parameter": "Electric Drive Motor Rating & Class",
+        "offered_value": "200 kW, IE4 Super Premium, IP55, Class H",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Siemens IE4 make"
+      },
+      {
+        "spec_id": "SPEC-04",
+        "parameter": "Hydraulic Oil Reservoir Tank Capacity",
+        "offered_value": "3200 Litres, SS-304",
+        "compliance": "Compliant",
+        "remarks": "SS-304 with baffles"
+      },
+      {
+        "spec_id": "SPEC-05",
+        "parameter": "Filtration System Rating",
+        "offered_value": "3 Micron absolute (Beta 200), Hydac Duplex",
+        "compliance": "Compliant",
+        "remarks": "Hydac optical switch"
+      },
+      {
+        "spec_id": "SPEC-06",
+        "parameter": "Oil Cooling System",
+        "offered_value": "Shell & Tube, SS-316 tubes",
+        "compliance": "Compliant",
+        "remarks": "Shell & Tube"
+      },
+      {
+        "spec_id": "SPEC-07",
+        "parameter": "PLC Automation & SCADA Interface",
+        "offered_value": "Siemens S7-1516 with Profinet/Modbus TCP",
+        "compliance": "Compliant",
+        "remarks": "SAIL BSL pre-configured"
+      },
+      {
+        "spec_id": "SPEC-08",
+        "parameter": "Condition Monitoring Sensors",
+        "offered_value": "IFM Electronic Vibration & Hydac CS1000",
+        "compliance": "Compliant",
+        "remarks": "Full sensor package"
+      }
+    ],
+    "commercial_responses": {
+      "payment_terms": "80% dispatch, 10% commissioning, 10% against PBG",
+      "delivery_schedule": "16 Weeks",
+      "warranty_period": "24 Months"
+    }
+  },
+  {
+    "bid_id": "BID-2026-002",
+    "vendor_id": "VEND-IND-0219",
+    "vendor_name": "Apex Fluid Power Engineering Corp (Faridabad, India)",
+    "vendor_origin": "Domestic (Make In India - Class 2 Local Supplier)",
+    "quoted_price_inr": 41200000,
+    "technical_responses": [
+      {
+        "spec_id": "SPEC-01",
+        "parameter": "Working Hydraulic System Pressure",
+        "offered_value": "180 bar continuous, 210 bar peak intermittent",
+        "compliance": "Non-Compliant (Deviation: 180 bar continuous)",
+        "remarks": "Cannot sustain continuous 210 bar load"
+      },
+      {
+        "spec_id": "SPEC-02",
+        "parameter": "Main High-Pressure Pump Capacity",
+        "offered_value": "450 Litres/min at 1450 RPM",
+        "compliance": "Compliant",
+        "remarks": "Gear pump combo"
+      },
+      {
+        "spec_id": "SPEC-03",
+        "parameter": "Electric Drive Motor Rating & Class",
+        "offered_value": "185 kW, IE3 Premium, IP55",
+        "compliance": "Deviation (Offered IE3 instead of IE4)",
+        "remarks": "Standard IE3 motor"
+      },
+      {
+        "spec_id": "SPEC-04",
+        "parameter": "Hydraulic Oil Reservoir Tank Capacity",
+        "offered_value": "2800 Litres, Mild Steel",
+        "compliance": "Deviation (MS instead of SS-304)",
+        "remarks": "MS epoxy coated tank"
+      },
+      {
+        "spec_id": "SPEC-05",
+        "parameter": "Filtration System Rating",
+        "offered_value": "5 Micron absolute, Single filter",
+        "compliance": "Deviation (5 Micron vs 3 Micron)",
+        "remarks": "Non-duplex single unit"
+      },
+      {
+        "spec_id": "SPEC-06",
+        "parameter": "Oil Cooling System",
+        "offered_value": "Plate Type Heat Exchanger",
+        "compliance": "Deviation (Plate type vs Shell & Tube)",
+        "remarks": "Plate type"
+      },
+      {
+        "spec_id": "SPEC-07",
+        "parameter": "PLC Automation & SCADA Interface",
+        "offered_value": "Delta PLC RS-485 Modbus RTU only",
+        "compliance": "Non-Compliant (No Profinet / Ethernet)",
+        "remarks": "Cannot connect to BSL MES"
+      },
+      {
+        "spec_id": "SPEC-08",
+        "parameter": "Condition Monitoring Sensors",
+        "offered_value": "Basic Dial Gauges only",
+        "compliance": "Deviation (No vibration sensor)",
+        "remarks": "Dial gauge only"
+      }
+    ],
+    "commercial_responses": {
+      "payment_terms": "20% Advance with order, 70% against dispatch, 10% after 30 days",
+      "delivery_schedule": "22 Weeks",
+      "warranty_period": "18 Months"
+    }
+  },
+  {
+    "bid_id": "BID-2026-003",
+    "vendor_id": "VEND-GER-0881",
+    "vendor_name": "Hydrowerk Steel Plant Hydraulics GmbH (Stuttgart, Germany)",
+    "vendor_origin": "Foreign OEM (Non-Local)",
+    "quoted_price_inr": 53200000,
+    "technical_responses": [
+      {
+        "spec_id": "SPEC-01",
+        "parameter": "Working Hydraulic System Pressure",
+        "offered_value": "250 bar continuous rated",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Exceeds spec by 40 bar"
+      },
+      {
+        "spec_id": "SPEC-02",
+        "parameter": "Main High-Pressure Pump Capacity",
+        "offered_value": "500 Litres/min",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Dual A4VSO pump"
+      },
+      {
+        "spec_id": "SPEC-03",
+        "parameter": "Electric Drive Motor Rating & Class",
+        "offered_value": "200 kW, IE4 Super Premium, IP65, Class H",
+        "compliance": "Compliant (Superior)",
+        "remarks": "ABB Germany"
+      },
+      {
+        "spec_id": "SPEC-04",
+        "parameter": "Hydraulic Oil Reservoir Tank Capacity",
+        "offered_value": "3500 Litres, 100% SS-316L",
+        "compliance": "Compliant (Superior)",
+        "remarks": "SS-316L tank"
+      },
+      {
+        "spec_id": "SPEC-05",
+        "parameter": "Filtration System Rating",
+        "offered_value": "2 Micron absolute, Parker Duplex",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Parker IO-link"
+      },
+      {
+        "spec_id": "SPEC-06",
+        "parameter": "Oil Cooling System",
+        "offered_value": "Shell & Tube, Titanium-SS316Ti",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Titanium stabilized"
+      },
+      {
+        "spec_id": "SPEC-07",
+        "parameter": "PLC Automation & SCADA Interface",
+        "offered_value": "Siemens S7-1518F Fail-Safe with OPC-UA & Profinet",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Full Industry 4.0 suite"
+      },
+      {
+        "spec_id": "SPEC-08",
+        "parameter": "Condition Monitoring Sensors",
+        "offered_value": "3-Axis accelerometers, particle counter & oil degradation",
+        "compliance": "Compliant (Superior)",
+        "remarks": "Full IoT sensors"
+      }
+    ],
+    "commercial_responses": {
+      "payment_terms": "80% LC against Bill of Lading, 10% commissioning, 10% against PBG",
+      "delivery_schedule": "16 Weeks",
+      "warranty_period": "24 Months"
+    }
+  }
+]

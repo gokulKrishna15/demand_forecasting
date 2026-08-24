@@ -1,0 +1,73 @@
+{
+  "tender_id": "SAIL/BSL/MM/PUR/2026/089",
+  "title": "Design, Manufacture, Supply, Erection & Commissioning of High-Pressure Descaling Hydraulic Power Pack Unit for Hot Strip Mill (HSM-2)",
+  "issuing_authority": "Materials Management (Procurement Division) \u2014 Bokaro Steel Plant",
+  "tender_type": "Open Global Tender (Two-Bid System: Technical + Commercial)",
+  "estimated_budget_inr": 48500000,
+  "emd_amount_inr": 970000,
+  "technical_specifications": [
+    {
+      "spec_id": "SPEC-01",
+      "parameter": "Working Hydraulic System Pressure",
+      "required_value": ">= 210 bar (continuous rated)",
+      "criticality": "Critical (Zero Tolerance)",
+      "tolerance_percent": 0.0
+    },
+    {
+      "spec_id": "SPEC-02",
+      "parameter": "Main High-Pressure Pump Capacity",
+      "required_value": ">= 450 Litres/min at 1450 RPM",
+      "criticality": "Critical (Zero Tolerance)",
+      "tolerance_percent": 0.0
+    },
+    {
+      "spec_id": "SPEC-03",
+      "parameter": "Electric Drive Motor Rating & Class",
+      "required_value": "185 kW, 415V +/- 10%, 50Hz, IE4 Super Premium Efficiency, IP55, Class H",
+      "criticality": "Critical (Zero Tolerance)",
+      "tolerance_percent": 0.0
+    },
+    {
+      "spec_id": "SPEC-04",
+      "parameter": "Hydraulic Oil Reservoir Tank Capacity",
+      "required_value": ">= 3000 Litres, SS-304 with internal anti-corrosive coating",
+      "criticality": "High",
+      "tolerance_percent": 5.0
+    },
+    {
+      "spec_id": "SPEC-05",
+      "parameter": "Filtration System Rating",
+      "required_value": "<= 3 Micron absolute (Beta-200 rating), Duplex Online Filter with clogging alarm",
+      "criticality": "Critical (Zero Tolerance)",
+      "tolerance_percent": 0.0
+    },
+    {
+      "spec_id": "SPEC-06",
+      "parameter": "Oil Cooling System",
+      "required_value": "Shell & Tube Water Cooler, cooling water temp 33C max, SS316 tubes",
+      "criticality": "High",
+      "tolerance_percent": 5.0
+    },
+    {
+      "spec_id": "SPEC-07",
+      "parameter": "PLC Automation & SCADA Interface",
+      "required_value": "Siemens S7-1500 / Allen Bradley ControlLogix with Modbus TCP/IP & Profinet to BSL Level-2 MES",
+      "criticality": "Critical (Zero Tolerance)",
+      "tolerance_percent": 0.0
+    },
+    {
+      "spec_id": "SPEC-08",
+      "parameter": "Condition Monitoring Sensors",
+      "required_value": "Online Vibration (ISO 10816), Oil Temp, Continuous Particle Counter, Moisture-in-Oil sensor",
+      "criticality": "High",
+      "tolerance_percent": 10.0
+    }
+  ],
+  "commercial_terms": {
+    "payment_terms": "80% upon dispatch against Inspection Certificate, 10% on successful commissioning, 10% against PBG",
+    "delivery_schedule": "16 Weeks from date of LOI / Purchase Order",
+    "warranty_period": "24 Months from commissioning or 30 months from supply",
+    "pbg_requirement": "10% of total order value valid for 24 months from commissioning",
+    "price_basis": "FOR Bokaro Steel Plant Site"
+  }
+}

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Testing & caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Cloned temporary repos
+h2o_wave_repo/
+h2o_wave_apps_repo/
+
+# Saved models & temporary artifacts
+saved_models/
+*.log
+
+# Environment variables
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
