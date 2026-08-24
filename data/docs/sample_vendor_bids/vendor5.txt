@@ -1,5 +1,0 @@
-Vendor: Evergreen Supplies
-Warranty: 12 months
-Delivery: 9 weeks
-Price per unit: 1195
-Notes: Includes replacement parts discount.
